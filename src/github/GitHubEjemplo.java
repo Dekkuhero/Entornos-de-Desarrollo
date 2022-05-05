@@ -6,7 +6,7 @@ public class GitHubEjemplo {
 		
 		System.out.println("Primer Commit");
 		System.out.println("Esta linea esta modificada en nuestro Github");
-		System.out.println("Esta linea esta modificada y se guardará en un nuevo branch");
+		System.out.println("Esta linea es para el ultimo check out");
 		
 	}
 	
